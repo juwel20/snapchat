@@ -6,7 +6,7 @@
 
 button
 {
-    font-size:40px;
+    font-size:20px;
     background-color:black;
     color:white;
     border-radius: 50px;
@@ -37,8 +37,8 @@ button
 }
 .profile
 {
-    font-family: 'Open Sans', sans-serif;
-   float:left;
+    float:left;
     font-size:80px;
     background-size: 60px;
+    background-color: red;
 }
